@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,js,html,css,docker,git,flask,fastapi,linux,ubuntu,arch,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,java,js,html,css,docker,git,flask,fastapi,linux,ubuntu,arch,kali)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogprzemo&show_icons=true&locale=en&layout=compact" alt="ogprzemo" /></p>
 
