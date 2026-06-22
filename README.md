@@ -2,7 +2,7 @@
 
 - 🥇 I’m currently learning Go
 
-- 📫 How to reach me **u35_przbrz_waw@technischools.com**
+- 📫 How to reach me **przemyslawbrzuzy@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
